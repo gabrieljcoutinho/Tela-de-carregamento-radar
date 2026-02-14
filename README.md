@@ -34,10 +34,3 @@ Este loader foi construído com foco em ser **leve** e **altamente performático
 
 ## 🚀 Como Implementar
 
-1. **Estrutura HTML:**
-   ```html
-   <div class="radar-container">
-     <div class="sweep"></div>
-     <div class="grid"></div>
-     <div class="blip"></div>
-   </div>
