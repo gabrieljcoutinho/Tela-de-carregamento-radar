@@ -32,5 +32,4 @@ Este loader foi construído com foco em ser **leve** e **altamente performático
 
 ---
 
-## 🚀 Como Implementar
-
+<img width="217" height="235" alt="Image" src="https://github.com/user-attachments/assets/18f790fd-e4bd-4913-aa2d-69b7ec1411a9" />
